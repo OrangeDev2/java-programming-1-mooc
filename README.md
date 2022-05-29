@@ -1,5 +1,5 @@
 # java-programming-1-mooc
- Completed Exerices for Java Programming I at MOOC (University of Helsinki’s free massive open online course)
+ Completed Exerices for Java Programming I at MOOC (University of Helsinki’s free massive open online course).  The course has 7 parts that I plan to complete, probably comes wtih a certificate. 
 
 # Part 1
 ![image](https://user-images.githubusercontent.com/47803678/170863408-e398b314-835c-435f-a1d8-2949084e4ef4.png)
