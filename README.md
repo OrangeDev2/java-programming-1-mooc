@@ -8,4 +8,5 @@
 ![image](https://user-images.githubusercontent.com/47803678/170863425-623de261-a771-4bb6-847b-4ed64a3c116c.png)
 
 Example: Methods to print Christmas Tree!:
+
 ![image](https://user-images.githubusercontent.com/47803678/170863454-bb690157-3c26-4f66-a557-04252810dca6.png)
