@@ -1,5 +1,7 @@
 # java-programming-1-mooc
  Completed Exerices for Java Programming I at MOOC (University of Helsinki’s free massive open online course).  The course has 7 parts that I plan to complete, probably comes wtih a certificate. 
+ 
+ 
  https://java-programming.mooc.fi/ (Open in a new tab please)
 
 # Part 1
